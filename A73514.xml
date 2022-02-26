@@ -1,0 +1,1635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The images of the Old Testament lately expressed, set forthe in Ynglishe and Frenche vuith a playn and brief exposition.</title>
+            <title>Icones historiarum Veteris Testamenti</title>
+            <author>Holbein, Hans, 1497-1543.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73514</idno>
+            <idno type="STC">STC 3045</idno>
+            <idno type="STC">ESTC S123133</idno>
+            <idno type="EEBO-CITATION">99898315</idno>
+            <idno type="PROQUEST">99898315</idno>
+            <idno type="VID">133097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133097)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2059:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The images of the Old Testament lately expressed, set forthe in Ynglishe and Frenche vuith a playn and brief exposition.</title>
+                  <title>Icones historiarum Veteris Testamenti</title>
+                  <author>Holbein, Hans, 1497-1543.</author>
+                  <author>Corrozet, Gilles, 1510-1568.</author>
+                  <author>Lützelburger, Hans, 1495?-1526, wood-engraver.</author>
+               </titleStmt>
+               <extent>[104] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>by Iohan Frellon,</publisher>
+                  <pubPlace>Printid at Lyons :</pubPlace>
+                  <date>the yere of our lord God, 1549.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition of "Icones historiarum Veteris Testamenti", woodcuts mostly by Hans Lützelburger after designs by Hans Holbein.</note>
+                  <note>With verses by Gilles Corrozet, whose name appears on A3r, and anonymous English paraphrases.</note>
+                  <note>Signatures: A-N⁴.</note>
+                  <note>The last leaf bears a larger copy of the illustration from the title page.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  History of Biblical events --  Poetry --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Illustrations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="book_plates">
+            <pb facs="tcp:133097:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>Francis Freeling.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:133097:1"/>
+            <p>
+               <figure>
+                  <p>SPERENS</p>
+                  <p>PERGO</p>
+                  <p>Ex libris Michaelis Tomkinson</p>
+                  <p>Franche Hall WORCESTERSHIRE.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:133097:2" rendition="simple:additions"/>
+            <pb facs="tcp:133097:2" rendition="simple:additions"/>
+            <p>THE IMAGES OF THE OLD TESTAMENT, Lately expreſſed, ſet forthe in Yngliſhe and Frenche, vuith a playn and brief expoſition.</p>
+            <figure>
+               <figDesc>printer's device of Jean Frellon</figDesc>
+               <head>MATVRA.</head>
+            </figure>
+            <p>Printid at Lyons, by Iohan Frellon, the yere of our lord God, 1549.</p>
+         </div>
+         <div xml:lang="lat" type="printer_to_the_reader">
+            <pb facs="tcp:133097:3"/>
+            <head>Franciſcus Frellonius Chri<g ref="char:EOLhyphen"/>ſtiano Lectori, S.</head>
+            <p>En tibi, Chriſtiane lector, ſacrorum cano<g ref="char:EOLhyphen"/>num tabulas, cum earundem &amp; Latina &amp; Gal lica interpretatione officioſe exhibemus: Illud in primis admonentes, vt reiectis Veneris, &amp; Dianae, caeterarúmque dearu<g ref="char:cmbAbbrStroke">̄</g> libidinoſis ima<g ref="char:EOLhyphen"/>ginibus, quae animum vel errore impediunt, vel turpitudine labefacta<g ref="char:cmbAbbrStroke">̄</g>t, ad has ſacroſanctas Iconas, quae Hagiographorum penetralia di<g ref="char:EOLhyphen"/>gito commonſtrant, omnes tui conatus refe<g ref="char:EOLhyphen"/>rantur. Quid enim pulchrius, aut Chriſtiano homìne dignius, quàm ad has resanimu<g ref="char:cmbAbbrStroke">̄</g> adiice re, quae ſolae fidei myſteria ſapiunt, &amp; Deum creatorem noſtrum vnicè amare, ac veram religionem profiteri praecipiu<g ref="char:cmbAbbrStroke">̄</g>t? Tuum igitur erit hunc noſtrum laborem aequo animo ſuſci pere, ac caeteros commonefacere, vt eiuſmo<g ref="char:EOLhyphen"/>di omnia ad Dei largitoris beneficentiſſimi gloriam, &amp; honorem dirigere meminerint. V<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lector, &amp; fruere.</p>
+         </div>
+         <div xml:lang="lat" type="to_the_reader">
+            <pb facs="tcp:133097:3"/>
+            <head>Nicolai Borbonii Vando<g ref="char:EOLhyphen"/>perani Poetae Lingonenſis Ad Lectorem Carmen.</head>
+            <l>
+               <seg rend="decorInit">N</seg>VPER in Elyſio cùm fortè erra<g ref="char:EOLhyphen"/>ret Apelles,</l>
+            <l>Vna aderat Zeuſis, Parrhaſiúsque comes.</l>
+            <l>Hi duo multa ſatis fundebant verba: ſed ille</l>
+            <l>Intereà moerens &amp; taciturnus erat.</l>
+            <l>Mirantur comites, faríque horta<g ref="char:cmbAbbrStroke">̄</g>tur, &amp; vrge<g ref="char:cmbAbbrStroke">̄</g>t:</l>
+            <l>Suſpirans imo pectore Coûs, ait:</l>
+            <l>O famae ignari, ſuperis quae nuper ab oris</l>
+            <l>(Vana vtina<g ref="char:cmbAbbrStroke">̄</g>) Stygias venit ad vſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> domos:</l>
+            <l>Scilicet, eſſe hodie quenda<g ref="char:cmbAbbrStroke">̄</g> ex mortalibus vnu<g ref="char:cmbAbbrStroke">̄</g>,</l>
+            <l>Oſtendat qui me vóſque fuiſſe nihil:</l>
+            <l>Qui nos declaret Pictores nomine tantúm,</l>
+            <l>Picturaeue omneis antè fuiſſe rudes.</l>
+            <l>Holbius eſt homini nome<g ref="char:cmbAbbrStroke">̄</g>, qui nomina noſtra</l>
+            <l>Obſcura ex claris, ac propè nulla facit.</l>
+            <l>Talis apud Manes querimonia fertu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; ill<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Sic equidem meritò cenſeo poſſe queri.</l>
+            <l>
+               <pb facs="tcp:133097:4"/>Na<g ref="char:cmbAbbrStroke">̄</g> tabula<g ref="char:cmbAbbrStroke">̄</g> ſi quis videat, qua<g ref="char:cmbAbbrStroke">̄</g> pinxerit Hanſus</l>
+            <l>Holbius, ille artis gloria prima ſuae:</l>
+            <l>Protinus exclamet, Potuit Deus edere mo<g ref="char:cmbAbbrStroke">̄</g>ſtru<g ref="char:cmbAbbrStroke">̄</g>
+            </l>
+            <l>Quod video: humanae no<g ref="char:cmbAbbrStroke">̄</g> potuêre manus.</l>
+            <l>Icones hae ſacrae tanti ſunt (optime lector)</l>
+            <l>Artificis, dignum quod venerêris opus.</l>
+            <l>Proderit hac pictura animum pauiſſe ſalubri,</l>
+            <l>Quae tibi diuinas exprimit hiſtorias.</l>
+            <l>Tradidit arcano quaecu<g ref="char:cmbAbbrStroke">̄</g>que volumine Moſes,</l>
+            <l>Tótque alii vates, gens agitata Deo,</l>
+            <l>His HANSI tabulis repraeſentantur: &amp; vnà</l>
+            <l>Interpres rerum ſermo Latinus adeſt.</l>
+            <l>Haec legito: Valeat rapti Ganymedis amator:</l>
+            <l>Sintque procul Cypriae turpia furta Deae.</l>
+            <q>
+               <lg>
+                  <l>Eiuſdem Borbonij Poetae.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>Latinè idem penè ad verbum.</l>
+               </lg>
+            </q>
+            <l>Cernere vis, hoſpes, ſimulacra ſimillima viuis?</l>
+            <l>Hoc opus Holbinae nobile cerne manus.</l>
+         </div>
+         <div xml:lang="fre" type="to_the_reader">
+            <pb facs="tcp:133097:4"/>
+            <head>Gilles Corrozet Aux Lecteurs.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">E</seg>N regardant ceste tapiſſerie</l>
+               <l>L'oeil corporel, qui ſe tourne, &amp; varie,</l>
+               <l>
+                  <hi>Y</hi> peut auoir vnſingulier plaiſir,</l>
+               <l>Lequel engendre au coeur certain deſir</l>
+               <l>D'aimer ſon Dieu, qui a faict tant de choſes</l>
+               <l>Dedans la letre, &amp; ſaincte Bible encloſes.</l>
+            </lg>
+            <lg>
+               <l>Ces beaux portraictz ſeruiront d'exemplaire,</l>
+               <l>Monſtrant qu'il fault au Seigneur Dieu complaire:</l>
+               <l>Exciteront de luy faire ſeruice,</l>
+               <l>Retireront de tout peché &amp; vice:</l>
+               <l>Quand ilz ſeront inſculpez en l'eſprit,</l>
+               <l>Comme ilz ſont painctz, &amp; couchez pareſcrit.</l>
+            </lg>
+            <lg>
+               <l>Donques ostez de voz maiſons, &amp; ſalles</l>
+               <l>Tant de tapis, &amp; de painctures ſalles,</l>
+               <l>Ostez Venus, &amp; ſon filz Cupido,</l>
+               <l>Ostez Heleine, &amp; Phyllis, &amp; Dido,</l>
+               <l>
+                  <pb facs="tcp:133097:5"/>Oſtez du tout fables &amp; poeſies,</l>
+               <l>Et receuez meilleures fantaſies.</l>
+            </lg>
+            <lg>
+               <l>Mettez au lieu, &amp; ſoyent voz chambres ceinctes</l>
+               <l>Des dictz ſacréz, &amp; des hiſtoires ſainctes,</l>
+               <l>Telles que ſont celles que voyez cy</l>
+               <l>En ce liuret. Et ſi faictes ainſi,</l>
+               <l>Grandz &amp; petis, les ieunes &amp; les vieulx</l>
+               <l>Auront plaiſir, &amp; au coeur &amp; aux yeulx,</l>
+            </lg>
+            <trailer>Plus que moins.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133097:5"/>
+            <div type="emblem">
+               <argument>
+                  <p>By the vuord of almygthy god ar created and blyſſed the erthe, day nygte, heuen, the ſey, the ſon, mon, ſters, fyches, and beyſts of the erth. Adam and Heua ar al<g ref="char:EOLhyphen"/>ſo created.</p>
+               </argument>
+               <head>GENESIS I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dieufit le ciel dés le commencement,</l>
+               <l>Puis terre, &amp; mer, &amp; tout humain ouurdge:</l>
+               <l>Adam, &amp; Heue il fit ſemblablement</l>
+               <l>Pleins de raiſon forméz à ſon image.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:6"/>
+               <argument>
+                  <p>Adam is ſet in paradiſo of pleaſure to vuhon ys forbedden the tre of life. The ſuttelty off the ſerpent Ada<g ref="char:cmbAbbrStroke">̄</g>, and Heua ar deceaued.</p>
+               </argument>
+               <head>GENESIS II. &amp; III.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dieu leur deffend que de l'arbre de vie</l>
+               <l>Ne mangent fruict, ſur peine de la Mort:</l>
+               <l>Mais le ſerpent, ayant ſur eux enuie,</l>
+               <l>Fait tant qu' Adam au fruict de l'arbremord.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:6"/>
+               <argument>
+                  <p>Vuhen Adam and Heua dyd atknolege thor ſyn, they dyd fle from the face of God, and ar obiected vnto deth. Cherubim is ſeth lefo re paradiſe of pleaſur vuyth a fyrey ſvuord.</p>
+               </argument>
+               <head>GENESIS III.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Pour le peché qu'ilz feirent contre Dieu,</l>
+               <l>Furent maudictz chacum ſelon l'offence:</l>
+               <l>Puis Cherubim les met hors de cé lieu,</l>
+               <l>Et contre mortn'eurent plus de defence.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:7"/>
+               <argument>
+                  <p>Adam expelled ouut off Paradyſe is co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>ded to dyge and plouu the erth, the vuoma<g ref="char:cmbAbbrStroke">̄</g> ys ſubiect vnto the man, and bringeth forht hyr chylder in ſorouue.</p>
+               </argument>
+               <head>GENESIS III.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>En grand labeur, &amp; ſueur de ſon corps</l>
+               <l>Le pere Adam a ſa vic gaignée,</l>
+               <l>Heue tandis en doloreux effortz,</l>
+               <l>Subiecte à l'Homme enfante ſa lignée.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:7"/>
+               <argument>
+                  <p>Rygthus Noe by the co<g ref="char:cmbAbbrStroke">̄</g>mandement of God goyth in to the shyppe he and his ar ſaued al, other deſtroed, The rauen and the doue letten ouut of the ſyppe.</p>
+               </argument>
+               <head>GENESIS VII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Tous les humains par l'uniuers deluge</l>
+               <l>Furent peris: Noé le Patriarche</l>
+               <l>Parle vouloir de Dieu, &amp; pour refuge,</l>
+               <l>Auec les ſiens, entra dedans ſon arche.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:8"/>
+               <argument>
+                  <p>The touure of Babylon is bylded, vuherupon cometh confuſion of languages.</p>
+               </argument>
+               <head>GENESIS. XI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Nembroth geant commença à construire</l>
+               <l>La tour Babel, dicte confuſion:</l>
+               <l>Mais Dieu voulant ſi grand orgueil destruire,</l>
+               <l>Es langues miſt toute diuiſion.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:8"/>
+               <argument>
+                  <p>Abraham logieh the Angels, Iſaac is promy<g ref="char:EOLhyphen"/>ſed vnto hym, Sara lauugot behynd the dore of the tabernacle. The deſtruction of the So<g ref="char:EOLhyphen"/>domites is ſneuued vnto Abraham. Abraham prayth for the Sodomiths.</p>
+               </argument>
+               <head>GENESIS XVIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>A Abraham les Anges ont promis,</l>
+               <l>D'auoir vnfilz, Sara n'en fait que rire:</l>
+               <l>A deux genoux pour Sodome ſ'eſt mis,</l>
+               <l>En priant Dieu de retarder ſon ire.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:9"/>
+               <argument>
+                  <p>The fayth of Abraham is tented. He is com<g ref="char:EOLhyphen"/>manded to offer hys ſon Iſaac. The Angel doth cal vnto Abraham, thar he ſhuld not kylle hys ſon.</p>
+               </argument>
+               <head>GENESIS XXII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dieu commanda à Abraham de faire,</l>
+               <l>De ſon enfant Iſaac ſacrifice:</l>
+               <l>Au mandement voulant doncq' ſatisfaire,</l>
+               <l>Dieu fut content de ſa foy &amp; iuſtice.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:9"/>
+               <argument>
+                  <p>Iacob by the ſutteltye of his mother takyth the blyſſing from Eſau. Iſaac is ſoro fulle. Eſau is conforted.</p>
+               </argument>
+               <head>GENESIS XXVII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le bon Iacob par conſeil de ſa mere,</l>
+               <l>Eut d'Iſaac la benediction:</l>
+               <l>En ſe faignant eſtre Eſau ſon frere,</l>
+               <l>Qui ſe marrit de la deception.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:10"/>
+               <argument>
+                  <p>Ioſeph by cauſe he accuſed his brether and had dremed, is caſten in the cyſtern, he dely<g ref="char:EOLunhyphen"/>uered ouut of the cyſtern, is ſolde vnto the Iſmaelyts.</p>
+               </argument>
+               <head>GENESIS XXXVII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>L'enfant Ioſeph fut mis en la cisterne,</l>
+               <l>Pour vn ſien ſonge à ſes freres predict,</l>
+               <l>Mais du Seigneur la prouidence eterne</l>
+               <l>A des marchans permiſt qu'on le vendit.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:10"/>
+               <argument>
+                  <p>Pharaos dreme of the ſeuen oxen and ears of corn, Ioſeph delyuered ouut of pryſon doth expouund it, tte is maed reuuber ouer Egy<g ref="char:EOLhyphen"/>pte.</p>
+               </argument>
+               <head>GENESIS LXI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Auſouef dormir Pharaon ſe diſpoſe,</l>
+               <l>Sept eſpicz voit, &amp; ſept beufz en ſongeant,</l>
+               <l>Ioſeph mis hors de priſon, luy expoſe:</l>
+               <l>Qui ſur Egypte eſt faict maiſtre, &amp; regent.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:11"/>
+               <argument>
+                  <p>Vuhen Iacob shuld dye, he porcheſſyth vn<g ref="char:EOLhyphen"/>to him Ephraim and Manaſſes the ſons of Io<g ref="char:EOLhyphen"/>ſeph: and blyſſyth them.</p>
+               </argument>
+               <head>GENESIS. XLVIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Iacob voyant le ſien eage prefix,</l>
+               <l>Et qu'il eſtoit bien pres de ſon deces,</l>
+               <l>Il adopta de Ioſeph les deux filx,</l>
+               <l>L'un Ephraim, &amp; l'autre Manaſſes.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:11"/>
+               <argument>
+                  <p>Ioſeph is buryed. The chylder of Iſrael ar op<g ref="char:EOLunhyphen"/>preſſed in Egypte vuyth hard bo<g ref="char:cmbAbbrStroke">̄</g>dage, The diligence of grod meduuyues ys expreſſed.</p>
+               </argument>
+               <head>EXODI. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ioſeph eſt mort, &amp; mis en ſepulture,</l>
+               <l>Iſrael ſouffre vne grand tyrannie,</l>
+               <l>Matrones ſont de ſi doulcenature,</l>
+               <l>Qu'elles ont ſauué à tous maſles la vie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:12"/>
+               <argument>
+                  <p>Moyſes and Aaron goyth vnto Pharao, The peple ar mor and mor oppreſſed. Moyſes and Aaron ar accuſed of the peple.</p>
+               </argument>
+               <head>EXODI V.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Auec ſon frere eſt Moyſe adreſsé</l>
+               <l>Vers Pharaon, priant pour Iſrael:</l>
+               <l>De plus en plus fut le peuple oppreſsé</l>
+               <l>Par celuy Roy, &amp; ſon peuple cruel.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:12"/>
+               <argument>
+                  <p>Moyſes fedyth the sheyp. He ſeyth God in the buſhe, He is ſent vnto the chylder of Iſ<g ref="char:EOLhyphen"/>rahel, and vnto Pharao the oppreſſed.</p>
+               </argument>
+               <head>EXODI III.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le bon Moyſe en ſes brebis gardant,</l>
+               <l>Fut enuoyé au peuple Iſraelite</l>
+               <l>De Dieu, qu'il vit en vn buiſſon ardant,</l>
+               <l>Auſsy deuers Pharaon roy d'Egypte.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:13"/>
+               <argument>
+                  <p>Pharaos hart ys hardenyt, he doth perſeuu the Iſrahelites and is drouudet. The Iſraheli tes grugith, deſparyng of ther helth. They go thorouu the myds of the ſey vuyth dry fete, vuhen they had gotten the victori they vuor shipped God.</p>
+               </argument>
+               <head>EXODI XIIII &amp; XV.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Tous les enfans d'Iſrael ſ'amaſſerent,</l>
+               <l>La rouge mer leur feit voye, au deuant</l>
+               <l>Partit ſes eaux, tant qu'a pied ſec paſſerent:</l>
+               <l>Mais Pharaon fut noyé les ſuyuant.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:13"/>
+               <argument>
+                  <p>The Iſrahelits goyth forth in to the vuylker<g ref="char:EOLhyphen"/>nes of Sin, vuen they mormured for mete, God ranyth them quuales and manna.</p>
+               </argument>
+               <head>EXODI XVI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Iceux paſsés, ilz ſe mettent en voye</l>
+               <l>Dens les deſertz: &amp; pour mieulx les pourueoir,</l>
+               <l>Noſtre Seigneur la manne leur enuoye,</l>
+               <l>Qu'il leur faiſoit du ciel en bas plounoir.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:14"/>
+               <argument>
+                  <p>The Iſaerelites doyth lay ther tents at the mount of Synay. The people is co<g ref="char:cmbAbbrStroke">̄</g>manded to do ſacrifice. Almighty God appeoyth vuyth lighning and thoundaryng, that the people shud feare hym.</p>
+               </argument>
+               <head>EXODI XIX.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ceulx d'Iſrael eſtablirent leurs tentes</l>
+               <l>En Sinai, chaſcun ſe ſanctifie:</l>
+               <l>Puis par tonnerre, &amp; par fouldres patentes</l>
+               <l>Noſtre Seigneur ſa grandeur notifie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:14"/>
+               <argument>
+                  <p>The Iſrahelits ar co<g ref="char:cmbAbbrStroke">̄</g>manded to make an Ark, a table, and a kandelſtyke for the offerryng of fyrſt fruts vnto God. The shea breds ar ſet vpon the table.</p>
+               </argument>
+               <head>EXODI XXV.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>L'arche ſe faict, la belle table, auſsi</l>
+               <l>Le chandelier, par diſpoſition</l>
+               <l>De noſtre Dieu, ſur ceſte table cy</l>
+               <l>On met les pains de propoſition.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:15"/>
+               <argument>
+                  <p>Vuhen Moyſes had reſtored the tables, he vuent into the hille, he deſireth God to go vuith the peple. The company of Gentiles, and idolatry is forbydden.</p>
+               </argument>
+               <head>EXODI XXXIIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dieu eſcriuitles Tables de la loy,</l>
+               <l>Moyſe enclin à deux genoux, le prie</l>
+               <l>Pour Iſrael, en ferme, &amp; viue foy:</l>
+               <l>Dieu luy defend payenne idolatrie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:15"/>
+               <argument>
+                  <p>Moyſes is inſtructed of the lord ouut of the tabernacle of vuyttnes, houu he shal offer oxen and shepe.</p>
+               </argument>
+               <head>LEVITICI I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dieu à Moyſe enſeigna ſon office,</l>
+               <l>Luy demonſtrant par mandementz nouucaux,</l>
+               <l>Comme il conuient faire le ſacrifice</l>
+               <l>Des gras moutons, des vaches, &amp; des veaux.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:16"/>
+               <argument>
+                  <p>Moyſes by the co<g ref="char:cmbAbbrStroke">̄</g>mandement of the lord, al the peple gathered befor the dores of the ta<g ref="char:EOLunhyphen"/>bernacle, conſecratyth Aaron and bys chyl<g ref="char:EOLunhyphen"/>der.</p>
+               </argument>
+               <head>LEVITICI VIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Au mandement de Dieu le createur,</l>
+               <l>Preſent le peuple, Aaron fut ſacré</l>
+               <l>Sur Iſrael, grand Eueſque &amp; paſteur,</l>
+               <l>Et tous ſes filz chaſcun en ſon degré.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:16"/>
+               <argument>
+                  <p>Nadab and Abiu, the ſons of Aaron, contrary to Gods commandement offeryng ſtrange fyre, ar conſumed vuyth the flamme.</p>
+               </argument>
+               <head>LEVITICI X.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Nadab, auec Abiu, pour autant</l>
+               <l>Que feu eſtrange au Seigneur Dieu offrirent,</l>
+               <l>Contre ſon vueil (leur or gueil abatant)</l>
+               <l>Par feu ſoudain entre flammes perirent.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:17"/>
+               <argument>
+                  <p>The lord sheuuyth the commandements vn<g ref="char:EOLhyphen"/>to Moyſes, ſum Moral, and ſum Ceremo<g ref="char:EOLhyphen"/>nial.</p>
+               </argument>
+               <head>LEVITICI XIX.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Deſſus le mont Dieu enſeigne à Moyſe</l>
+               <l>Ses mandementz, qui ſont les Loix Morales:</l>
+               <l>Puis luy apprent l'obſeruance, &amp; la guiſe,</l>
+               <l>Pour accomplir les Ceremoniales.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:17"/>
+               <argument>
+                  <p>Moyſes and Aaron doth numbre men that vuen abbe to fygth acorrdyng vnto the tu<g ref="char:EOLhyphen"/>uelue tribes of Iſrahel. The Tribe of Leui is ordined for the tabernacle.</p>
+               </argument>
+               <head>NVMERI I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Moyſe eſlit, &amp; nombre entierement</l>
+               <l>Les hommes fortz, de vaillance ennoblis,</l>
+               <l>Ceux de Leui ont le gouuernement</l>
+               <l>Du tabernacle, ou ilz ſont establis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:18"/>
+               <argument>
+                  <p>Moyſes and Aaron, the princes of famylies, aaer dyng vnto Gods commandement re<g ref="char:EOLhyphen"/>herſed, doth orden ſtations of the tents.</p>
+               </argument>
+               <head>NVMERI II.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Apres moyſe (au mandement de Dieu)</l>
+               <l>A ceux qui ſont des familles les princes,</l>
+               <l>Il ordonna leur aſsiete &amp; leur lieu,</l>
+               <l>En trauerſant les pays, &amp; prouinces.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:18"/>
+               <argument>
+                  <p>Core, Dathan and Abiron grudgyng agaiuſt Moyſes, ar ſuualo vued vp of the erth vuyth many othor.</p>
+               </argument>
+               <head>NVMERI XVI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Core, Dathan, &amp; Abiron murmurent,</l>
+               <l>Contre Moyſe &amp; ſon authorité:</l>
+               <l>Mais tout ſubit en terre abſorbez furent.</l>
+               <l>Comne chaſcun auoit bien merité.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:19"/>
+               <argument>
+                  <p>Iſrahel rebellyng ys plaged vuith fyry Ser<g ref="char:EOLhyphen"/>pens. Moyſes doth ſeth vp a Braſen Serpent, for a token: the vuhyche vuhen they that vuar bitten dyd behold, they vuar hole.</p>
+               </argument>
+               <head>NVMERI XXI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Parles Serpens ardens l'homme greué,</l>
+               <l>Pour y trouuer remede ſouuerain,</l>
+               <l>Estoit guery, quand il auoit leué</l>
+               <l>Le ſien regard vers le Serpent d'aerain.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:19"/>
+               <argument>
+                  <p>The Iſrahelits vuhen they had ouerco<g ref="char:cmbAbbrStroke">̄</g>ne the Madianits, they brogth the pray vnto Moy<g ref="char:EOLunhyphen"/>ſes and Aaron. they dyd reſerue the virgi<g ref="char:EOLhyphen"/>nis, the vuhome<g ref="char:cmbAbbrStroke">̄</g> ar killed. The pra iis equal<g ref="char:EOLhyphen"/>lye deuided.</p>
+               </argument>
+               <head>NVMERI XXXI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Du tout deffaictz ſont les Madianites</l>
+               <l>(La vierge ſauue) eſt toute femme occiſe,</l>
+               <l>Par les vainqueurs hommes Iſraelites:</l>
+               <l>Et puis entre eux la proye ſe diuiſe.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:20"/>
+               <argument>
+                  <p>Moyſes in the vuyldernes repetyth the thyn<g ref="char:EOLunhyphen"/>ge vuhych vuar done in the hille Horeb, he doth conſtitute the Princes off the pople vuyth hym.</p>
+               </argument>
+               <head>DEVTER I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Moyſe compte, &amp; à entendre donne</l>
+               <l>Ce qui fut faict, depuis le partement</l>
+               <l>Du mont Horeb. Puis auec ſoy ordonne</l>
+               <l>Des Gouuerneurs, pour ſon ſupportement.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:20"/>
+               <argument>
+                  <p>Moyſes not only openly but alſo sharply monysheth the peple of berning and folou<g ref="char:EOLhyphen"/>uyng the commandements of God.</p>
+               </argument>
+               <head>DEVTER. IIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Moyſe apres argrement admoneſte,</l>
+               <l>Ceux d'Iſrael d'apprendre &amp; obſeruer</l>
+               <l>La Loy de Dieu bonne, ſaincte &amp; honeſte,</l>
+               <l>Et ſes preceptz (tant bien faistz) conſeruer.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:21"/>
+               <argument>
+                  <p>Moyſes iudgeth diligontly of the lyuing of Preſts and Leuites. Chriſt is promyſed. That a fals prophet shuld be kylled, and houu he shalbe knouuyn.</p>
+               </argument>
+               <head>DEVTER. XVIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Moyſe à ſoing du viure des Leuites,</l>
+               <l>Et Ieſus Chriſt eſt aux hommes promis.</l>
+               <l>Le faulx prophete à ſes moeurs hypocrites</l>
+               <l>Eſt recongneu: &amp; doit eſtre à mort mis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:21"/>
+               <argument>
+                  <p>Ioſue vuyth the hoſt of Iſrahelites doth kyl the rings be yond Iordane.</p>
+               </argument>
+               <head>IOSVE XII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ioſué Du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d'Iſrael quand il eut</l>
+               <l>Paſsé Iordain auec ſon exercite,</l>
+               <l>Trente &amp; vn Roy il occit, puis eſleut</l>
+               <l>La terre aux ſiens, &amp; chaſcun lieu limite.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:22"/>
+               <argument>
+                  <p>Iudas the Captaine of the Iſrahelites ouerco<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>myth the Chananyſe. Adonibezec, his hend and his fete cur of, is bedde pryſoner in to Ieruſalem.</p>
+               </argument>
+               <head>IVDICVM I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Duc Iudas Chananée guerroye,</l>
+               <l>Et pris captif Adonibezec Roy,</l>
+               <l>Les piedz, &amp; mains luy tranche, &amp; puis l'enuoye</l>
+               <l>A la cité, en ſi piteux arroy.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:22"/>
+               <argument>
+                  <p>Ruth glenyng ears of corn in Booz felde, fand fauor before hym, the ears vuhyche she had gathered beryth she vnto hyr mo<g ref="char:EOLhyphen"/>ther in lauu.</p>
+               </argument>
+               <head>RVTH II.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ruth va aux champs pour le bled, qui reſtoit</l>
+               <l>Aux moiſſonneurs, en eſpicz recueillir,</l>
+               <l>Deuant Booz (à qui le champ eſtoit)</l>
+               <l>Grace trouua, qui la feit accueillir.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:23"/>
+               <argument>
+                  <p>Anna the vuyfe of Elcane beyng long ba<g ref="char:EOLhyphen"/>rand, doth obtaine of God hyr ſon Samuel, by cauſe she praed from hyr hareth, Heli the Preſt ſittyng in a chare befor the dores of the temple of God.</p>
+               </argument>
+               <head>I. REGVM I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Anne ne peut d'Elcana ſon mary</l>
+               <l>Auoir enfans, mais le Seigneur receut</l>
+               <l>Son oraiſon faicte de coeur marry,</l>
+               <l>Et luy donna que Samuel conceut.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:23"/>
+               <argument>
+                  <p>Saul is annoynted of Samuel kyng ouer Iſra<g ref="char:EOLhyphen"/>hel. a token is gyuen him ath the graue of Rachel, vuherby he shuld knoa that he vu<g ref="char:EOLhyphen"/>as annoynted kyng of God.</p>
+               </argument>
+               <head>I REGVM X.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Par Samuel prophete ſainct, &amp; digne</l>
+               <l>Saul eſt oinct Roy deſſus Iſrael:</l>
+               <l>Et pour le croire il luy donne le ſigne</l>
+               <l>De ſeureté pres le tumbeau Rachel.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:24"/>
+               <argument>
+                  <p>Dauid caſtyng auuay Saul harnes, and tri<g ref="char:EOLhyphen"/>ſting only in the pouur of God, vuyth a ſtone ouut of hys ſtyng kyllyth Goliath he chaſyth auuay the Philiſtians.</p>
+               </argument>
+               <head>I. REGVM XVII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dauid occit Goliath d'une pierre,</l>
+               <l>Sans eſtre armé, en Dieu ſe confiant.</l>
+               <l>Par vn enfant le geant mis par terre,</l>
+               <l>Des Philiſtins l'oſt retourne fuyant.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:24"/>
+               <argument>
+                  <p>It is sheuued Dauid that Ceilam vuas by ſe<g ref="char:EOLhyphen"/>ged of the Philiſtians. He takyng conſel of the lord, deliuerid Ceila<g ref="char:cmbAbbrStroke">̄</g> from the Philiſtia<g ref="char:cmbAbbrStroke">̄</g>s.</p>
+               </argument>
+               <head>I. REGVM XXIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>On a noncé au preux Dauid, comment</l>
+               <l>Des Philiſtins Ceile eſt aſſaillie:</l>
+               <l>Ayant de Dieu prins conſeil doublement,</l>
+               <l>La deliura faiſant ſur eux ſaillie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:25"/>
+               <argument>
+                  <p>The deth of Saul and Ionathan is sheuued vn to Dauid. He is ſorouuful, and commandith hym to be kylled vuhyche fained hym ſelf to haue kylled Saul.</p>
+               </argument>
+               <head>II. REGVM I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Vng faux herault au Roy Dauid reuele,</l>
+               <l>Le Roy Saul &amp; ſonfilz eſtre mort,</l>
+               <l>Penſant porter quelque bonne nouuelle:</l>
+               <l>Mais pour le faict vanté, fut mis à mort.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:25"/>
+               <argument>
+                  <p>Dauid chaſeth auuay the Philiſtians, and ma<g ref="char:EOLunhyphen"/>keth them tributary vnto hym. Adarezer kyng Soba is ſmytten.</p>
+               </argument>
+               <head>II. REGVM VIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Roy Dauid fait à ſoy tributaires</l>
+               <l>Les Philiſtins, anciens ennemis,</l>
+               <l>Et en fin vient à chef de ſes contraires,</l>
+               <l>Adarezer Roy de Sobe à mort mis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:26"/>
+               <argument>
+                  <p>Dauid callith Vriam from the hoſt, by cauſe he vuold the adultery vuych he had com<g ref="char:EOLhyphen"/>mitted vuyth hys vuyfe, shud be hylde. Vrias vuhen he had receu id letters of Da<g ref="char:EOLhyphen"/>uid, retornyth vnto the hoſt, and ther is he kylled.</p>
+               </argument>
+               <head>II REGVM XI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dauid voulant l'adultere celer,</l>
+               <l>Mande Vrias, &amp; luy baille vne lettre:</l>
+               <l>Puis luy commande à la bataille aller,</l>
+               <l>Par telle fraude il le feit à mort mettre.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:26"/>
+               <argument>
+                  <p>Nathan the Prophet accuſytd Dauid of mur<g ref="char:EOLunhyphen"/>der sheuuyng hym a parable of the ryche man and the puor. Rabbath a cyty of the Ammonits is ouercomne of Dauid.</p>
+               </argument>
+               <head>II REGVM XII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Nathan adreſſe à Dauid ſa parole</l>
+               <l>Pour l'homicide ayant eſté commis,</l>
+               <l>Et le reprint par vne parabole:</l>
+               <l>Deuant Rabbath auſsy le ſiege eſt mis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:27"/>
+               <argument>
+                  <p>Abſalon by the ſuttelty and vuyſdo<g ref="char:cmbAbbrStroke">̄</g> of Ioab, and the vuhoman of Thecuid, is called aga<g ref="char:EOLhyphen"/>ine, Dauid doth kyſſe hys ſon Abſalon.</p>
+               </argument>
+               <head>II. REGVM XIIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Par le moyen d'une femme, &amp; prudence,</l>
+               <l>Tant fait Ioab, que Dauid ſe rapaiſe</l>
+               <l>Vers Abſalom, qui vient en reuerence</l>
+               <l>S'humilier, &amp; ſon pere le baiſe.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:27"/>
+               <argument>
+                  <p>Amaſa callyth to gyther Iudam againſt Se<g ref="char:EOLhyphen"/>bam: vuhom Ioab kyſſed, and in ther iornay at the great ſton deſat fully kylled.</p>
+               </argument>
+               <head>II. REGVM XX.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Amaſa vient d'aſsembler gens de guerre</l>
+               <l>Contre Seba, &amp; Ioab le ſalue</l>
+               <l>Par trahiſon aupres de la grand pierre,</l>
+               <l>Et en faignant de l'embraſſer, le tue.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:28"/>
+               <argument>
+                  <p>Abiſag the fare maden is gyuen vnto old Da<g ref="char:EOLunhyphen"/>uid vuhyche shuld kepe hym vuarm vuhen he ſlepyth.</p>
+               </argument>
+               <head>III. REGVM I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Quand Dauid fut deuenu foible &amp; vieux,</l>
+               <l>On luy bailla Abiſag la pucelle,</l>
+               <l>Pour l'eſchauffer, qui ſans faict vicieux.</l>
+               <l>Par maintes nuictz dormit auec icelle.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:28"/>
+               <argument>
+                  <p>Hiram ſcudith hys ſeruants that he mygth re<g ref="char:EOLunhyphen"/>ioie vuyth Salomon. Salomon requirith tymbrt of Hiram for the bueldyng of the temple.</p>
+               </argument>
+               <head>III. REGVM V.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le roy Hiram ſes ſeruiteurs enuoye</l>
+               <l>Vers Salomon, auec ſalut treſample:</l>
+               <l>Lors le requiert Salomon qu'il pouruoye</l>
+               <l>Luy donner bois pour construire ſon temple.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:29"/>
+               <argument>
+                  <p>Ieroboam conſultyth Ahiam the prophet, by hys vuyfe, as co<g ref="char:cmbAbbrStroke">̄</g>cerning the helth of his ſon vuhyche vuas ſcyk. but as ſon as she vuas comne hom and entered in ath the dore, Abia dyed.</p>
+               </argument>
+               <head>III. REGVM XIIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ieroboam enuoye ſon eſpouſe,</l>
+               <l>Pour de ſon filz malade ſ'enquerir</l>
+               <l>Vers Ahias, qui ſa mort luy propoſe,</l>
+               <l>Et elle entrant l'enfant ſ'en va mourir.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:29"/>
+               <argument>
+                  <p>Elias sheuuyth vnto the preyſts of Baal, that God of Iſrahel vuas the very true God, God teſtifiyng the ſame by the fyre conſumyng the offeryng of Elias. The preyſts of Baal ar kylled.</p>
+               </argument>
+               <head>III. REGVM XVIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Elie met le beuf deſſus l'autel,</l>
+               <l>Le feu du ciel deſcend ſans artifice,</l>
+               <l>Et pour monſtrer que le Dieu d'Iſrael</l>
+               <l>Eſt le vray Dicu, bruſle le ſacrifice.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:30"/>
+               <argument>
+                  <p>Elias deuidit the vuater vuith his kloke. He receued vp in to heuem can not be fouund. The bays vuhiche dyd mok Elyſeus ar re<g ref="char:cmbAbbrStroke">̄</g>t druouured of the Bears.</p>
+               </argument>
+               <head>IIII. REGVM II.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Cheuaux ardens rauirent, &amp; leuerent</l>
+               <l>Elie en l'air, de dans vn char de feu:</l>
+               <l>Deux ours du bois les enfans estranglerent,</l>
+               <l>Leſquelz auoyent moqué l'homme de Dieu.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:30"/>
+               <argument>
+                  <p>Ioiada the Byshope, Athalia beyng kylled, maketh Ioas kyng ouer Iſrahel, Mathan the preſt of Baal is kylled befor the altare.</p>
+               </argument>
+               <head>IIII. REGVM XI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Par Ioiada, Ioas conſtitué</l>
+               <l>Sur Iſrael fut en l'eſtat Royal:</l>
+               <l>Et Mathan presbtre idolatre tué,</l>
+               <l>Deuant l'autel de ſon faulx Dieu Baal.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:31"/>
+               <argument>
+                  <p>Achaz kyng of Iuda ful of idolatry, doth co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>ſecrat hys ſon by the fire. Ieruſalem is byſe<g ref="char:EOLhyphen"/>ged and requireth hely of the kyng of the Aſſyrians.</p>
+               </argument>
+               <head>IIII. REGVM XVI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Roy Achaz idolatre deuint,</l>
+               <l>En feu ardant ſon filz il ſacrifie:</l>
+               <l>Puis quand la guerre encontre luy ſuruint,</l>
+               <l>Secours demande au Roy d'Aſsyrie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:31"/>
+               <argument>
+                  <p>Ioſias redith the boke of Deuteronomy be<g ref="char:EOLhyphen"/>fore the peple, He deſtroyth Idols, and kyl<g ref="char:EOLhyphen"/>lyth the preyſts of Baal.</p>
+               </argument>
+               <head>IIII. REGVM. XXIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Roy Ioſie au peuple Iudaique,</l>
+               <l>Deuteronome il lit de bout en bout:</l>
+               <l>Et ſon pays purgeant d'erreur inique,</l>
+               <l>Il fait bruſler les idoles par tout.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:32"/>
+               <argument>
+                  <p>The genealogye of Adam is breffy repeted vnto the ſons of Eſau and Iacob.</p>
+               </argument>
+               <head>I. PARALIP. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Icy recite &amp; nombre briefuement</l>
+               <l>Iuſ qu'a Iacob, la genealogie,</l>
+               <l>Depuis Adam, dés le commencement,</l>
+               <l>Qui fut ſoubz Dieu gouuernée &amp; regie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:32"/>
+               <argument>
+                  <p>Saul fygthyng vnlukkyly aganſt the Phili<g ref="char:EOLhyphen"/>ſtians, kyllyth hym ſelf. his harnes is conſe<g ref="char:EOLhyphen"/>crat in the temple of his God. buth his hed is caryed of the Philiſtians in to the temple of idoles.</p>
+               </argument>
+               <head>I. PARALIP. X.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Saul faiſant la guerre aux Philistins,</l>
+               <l>Soy meſme occit, quand ſa perte contemple:</l>
+               <l>Les Philistins entre tous leurs butins,</l>
+               <l>Portent le chef de Saul en leur temple.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:33"/>
+               <argument>
+                  <p>Dauid vuhen the ark vuas brogth, agayn blyſſyth the peple, and makyth then alſo a feſt. He doth inſtruit the miniſters of the ark to prayſe God in inſtrume<g ref="char:cmbAbbrStroke">̄</g>ts of muſyke</p>
+               </argument>
+               <head>I. PARALIP. XVI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Roy Dauid deuant l'Arche de Dieu.</l>
+               <l>Benit le peuple, &amp; à manger luy donne:</l>
+               <l>Et pour louer le Seigneur, au ſainct lieu</l>
+               <l>Muſiciens, &amp; inſtrumens or donne.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:33"/>
+               <argument>
+                  <p>Salomon grith in to the hye place Gabaon to do ſacrifice, he requirith of God vuiſdo<g ref="char:cmbAbbrStroke">̄</g>, and knologe to iudge the peple.</p>
+               </argument>
+               <head>II. PARALIP. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>En Gabaon Salomon ſacrifie,</l>
+               <l>Puis prie à Dieu luy donner ſageſſe:</l>
+               <l>Dieu parle à luy, &amp; ſi luy certifie</l>
+               <l>Qu'il luy donra Sapience, &amp; Richeſſe.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:34"/>
+               <argument>
+                  <p>Salomon prayth for the congregation. He thankyth God, vuhyche fulfyld the promy<g ref="char:EOLunhyphen"/>ſes mad vnto Dauid. He deſyrith of God that al, vuhyche prayth in the temple ma be hard.</p>
+               </argument>
+               <head>II. PARALIP. VI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Salomon Roy Benit les aſsiſtans,</l>
+               <l>Rend grace à Dieu, des promeſſes parfaictes,</l>
+               <l>Priant pour ceux, qui ſeront perſiſtans</l>
+               <l>Es oraiſons, qu'agreables ſoyent faictes.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:34"/>
+               <argument>
+                  <p>Seſac kyng of Egypt, by cauſe the Ieuuas had forſaken the lord, takyth auuay the shelds of gold, vuhyche Salomo<g ref="char:cmbAbbrStroke">̄</g> made, and al the treaſures of the houuſt of God.</p>
+               </argument>
+               <head>II. PARALIP. XII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Vn Roy d'Egypte, aux Iuifz tous vaincuz,</l>
+               <l>(Pourtant qu'auoyent laiſsé Dieu leur Seigneur)</l>
+               <l>Osta threſors, boucliers d'or, &amp; eſcuz,</l>
+               <l>Que Salomon auoit faict pour honneur.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:35"/>
+               <argument>
+                  <p>Sennacherib a blaſphemar inuadith the Ieu<g ref="char:EOLhyphen"/>ues, Ezechias exhortith the peple to triſt in God. As Ezechias praed, the angel of God ſeued the Aſſyrians.</p>
+               </argument>
+               <head>II. PARALIP. XXXII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Sennacherib en Iudée fait guerre,</l>
+               <l>Ezechias le peuple en Dieu exhorte,</l>
+               <l>Et luy priant, Aſſyriens par terre</l>
+               <l>L'ange pourſuit en ſa puiſſance forte.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:35"/>
+               <argument>
+                  <p>Cyrus inſpired of God, dyd reſtore the veſ<g ref="char:EOLhyphen"/>ſels of the temple, vuhych Nabuchodono<g ref="char:EOLhyphen"/>ſor dyd tak auuay, he ſendith the peple aga<g ref="char:EOLunhyphen"/>ne to buyld Ieruſalem.</p>
+               </argument>
+               <head>I. ESDRAE I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le Roy Cyrus de Dieu bien inſpiré,</l>
+               <l>Rend les vaiſſeauz pour faire au temple office:</l>
+               <l>Puis il permit (comme eſtoit deſiré,)</l>
+               <l>Ieruſalem eſtre en ſon edifice.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:36"/>
+               <argument>
+                  <p>Nehemias kyng Artaxerxis buttelar, prayth vnto God for the reſideuu of the peple of Ieruſalem, vuhyche vuar in truble.</p>
+               </argument>
+               <head>II. ESDRAE I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Nehemias ſeruant Artaxerxes,</l>
+               <l>(Pleurant à Dieu, pour la captiuité</l>
+               <l>De tous Iuifz) eut au Roy tel acces,</l>
+               <l>Qu'il luy permit refaire la Cité.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:36"/>
+               <argument>
+                  <p>Ioſias in the XIIII. mone of the fyrſt monetl in Ieruſalem offerith vp the paſchal lamb.</p>
+               </argument>
+               <head>III ESDRAE I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ioſias Roy treſſainct ſe remembra</l>
+               <l>Du temps paſsé: &amp; en Ieruſalem</l>
+               <l>Sacrifiant, la Paſque celebra</l>
+               <l>Iour quatorzieſme, au premier mois de l'an.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:37"/>
+               <argument>
+                  <p>Tobias is taken pryſoner of the Aſſyria<g ref="char:cmbAbbrStroke">̄</g>s. Vu<g ref="char:EOLunhyphen"/>hen he dyd ſlepe by the vual, the dung of the ſualouues did fal in his eyn vuherby he vuas made blynd.</p>
+               </argument>
+               <head>TOBIAE I. &amp; II.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le bon Tobie eſtant captif &amp; vieulx</l>
+               <l>Dormoit vn iour, &amp; lors vne arondelle</l>
+               <l>Eſtant là pres, fienta ſur ſes yeulx,</l>
+               <l>Dont perd la veue, &amp; la clarté tant belle.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:37"/>
+               <argument>
+                  <p>Satan obtanyth licence of God to deſtroye al the goods of Iob and his chylder. Buth he praſeth God in hys affliction.</p>
+               </argument>
+               <head>IOB I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Iob par Satan (ayant de Dieu licence)</l>
+               <l>Souffre en ſes biens grand perſecution:</l>
+               <l>Ses enfans perd, dont il a patience,</l>
+               <l>Louant ſon Dieu en telle affliction.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:38"/>
+               <argument>
+                  <p>Eliphaz rebukith Iob for the arrogancy of vuyſdum and clenlynes. He deſcribith the maledictio<g ref="char:cmbAbbrStroke">̄</g> of the vuykked vuyche he doth falſly attribute vnto Iob.</p>
+               </argument>
+               <head>IOB XV.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>A l'affligé donnant affliction</l>
+               <l>Eliphaz, Iob argue d'arrogance:</l>
+               <l>Et des mauuais la malediction</l>
+               <l>Mal attribue à ſa iuſte innocence.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:38"/>
+               <argument>
+                  <p>The lord ſpekyth vnto Iob, sheuuyng vnto hym his rigtrtouſnes by his vnſerehable vuorks. Vnto Iob is reſtored duple ryches for that, that vuas taken from hym.</p>
+               </argument>
+               <head>IOB. XXXVIII. &amp; XLII</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Iob a de Dieu les propos entendus,</l>
+               <l>Luy demonſtrant par ſes oeuures haultames</l>
+               <l>Sa grand' iuſtice, &amp; au double rendus</l>
+               <l>Luy ſont ſes biens, &amp; richeſſes mondaines.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:39"/>
+               <argument>
+                  <p>Aſſuerus makyng a gret feſt doth ſet ouut his glori vaſthi his vuyfe diuorſed, Eſther is made queyn.</p>
+               </argument>
+               <head>ESTHER. I. &amp; II.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Aſſuerus celebrant vn conuiue</l>
+               <l>Repudia Vaſthi pour ſon orgueil,</l>
+               <l>Eſther trouua en ſa beauté ſi viue,</l>
+               <l>Qu'il la feit Royne auec vn grand recueil.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:39"/>
+               <argument>
+                  <p>Vuhen Iudith had finiſhed hir praet, she a<g ref="char:EOLhyphen"/>nornyth hir vuyth garmenes of pleaſur, to the intent she shudl ouercome Holoforne for the glory of God.</p>
+               </argument>
+               <head>IVDITH X.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Iudith ayant faict oraiſon latente,</l>
+               <l>Parée ſ'eſt d'abitz de pompe, &amp; gloire:</l>
+               <l>D'Holofernes puis ſ'en va vers la tente,</l>
+               <l>Pour à l'honneur de Dieu auoir victoire.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:40"/>
+               <argument>
+                  <p>Iudith, vuhen Holofern vuas druncken and ſlped, hir made kopyng the dore, ded cut of his hede and caried it vnto hir citiſens.</p>
+               </argument>
+               <head>IVDITH XIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Holofernes yure comme vne beſte</l>
+               <l>S'endort, la fille eſt au guet à la porte:</l>
+               <l>A luy dormant Iudith trenche la teſte,</l>
+               <l>Qu'en Bethulie à ſes citoyens porte.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:40"/>
+               <argument>
+                  <p>Dauid inſpiret vuith the ſpret of God, deſ<g ref="char:EOLhyphen"/>cribyth the felicitits of man, he declared al ſo the deſtruction of the vngadly and infi<g ref="char:EOLhyphen"/>deles.</p>
+               </argument>
+               <head>PSALM. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Dauid parlant par le Sainct eſperit,</l>
+               <l>Du bien heureux dict les beatitudes:</l>
+               <l>Et du mauuis recite qu'il perit,</l>
+               <l>Car en malice il a mis ſes estudes.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:41"/>
+               <argument>
+                  <p>The pſalmiſt is angrye vuith the Ieuues and callith them fools vuhyche vngodly and vnfaytfully de<g ref="char:cmbAbbrStroke">̄</g>yeth Chriſt to be the treuue Meſſias and God, vuhyche vuas promyſed in the lauue.</p>
+               </argument>
+               <head>PSALM. LII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Folz ſont ceux là (comme eſcrit le Pſalmiſte)</l>
+               <l>Qui en leurs cueurs dient que Ieſus Chriſt</l>
+               <l>N'eſt Meſsias, Dauid tant ſ'en contriſte,</l>
+               <l>Qu'en pluſieurs lieux encontre iceux eſcrit.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:41"/>
+               <argument>
+                  <p>Chriſt ſittyth ath the rigrhand of his father. God the father gyuidh vnto his ſon a prey ſtly dignitye vuhyce shal luer in due for the benefice of his paſſion.</p>
+               </argument>
+               <head>PSALM. CIX.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ieſus Criſt ſiet de ſon Pere à la dextre,</l>
+               <l>Qui pour loyer de ſamort treſcruelle</l>
+               <l>La dignité luy donne de grand prebſtre,</l>
+               <l>Qui eſt ſans fin durante, &amp; eternelle.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:42"/>
+               <argument>
+                  <p>The incomprehenſible myſteri of the loue vuhiche Chriſt harbre touuard his ſpouus the chyrce, and agane, that the chyrche hath touuard Chriſt, is fully expreſſed.</p>
+               </argument>
+               <head>CANTICOR. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Salomon Roy au liure des Cantiques</l>
+               <l>Propos d'amy vers vne amie expoſe,</l>
+               <l>L'amour couurant ſoubz parolles mystiques</l>
+               <l>De Chriſt enuers l'Egliſe ſon eſpouſe.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:42"/>
+               <argument>
+                  <p>Iſaias doth lament the ſyns of Ieruſalem, the lord doth reiect by Iſaias hys prophet the ceremonies of the Ieuues, vuherin they did put ther truſt.</p>
+               </argument>
+               <head>ESAIAE. L.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Plourant, lamente Iſaie prophete</l>
+               <l>Du peuple Iuifles grandz pechez, &amp; vices:</l>
+               <l>Puis Dieu (par luy) de ce peuple reiette</l>
+               <l>L'hypocriſie auec leurs ſacrifices.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:43"/>
+               <argument>
+                  <p>Eſaias doth ſe the glory of God and atkno<g ref="char:EOLhyphen"/>legeth his ſins. By the token and the vuord he obtanith remiſſion of ſins, and is ſent vn<g ref="char:EOLhyphen"/>to the Ieuues.</p>
+               </argument>
+               <head>ESAIAE. VI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>De Dieu la gloire Iſaie apperçoit,</l>
+               <l>De ſon peché il a la congnoiſſance:</l>
+               <l>L'ange le touche, &amp; pardon il reçoit,</l>
+               <l>Tranſmis aux Iuifz par diuine puiſſance.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:43"/>
+               <argument>
+                  <p>Ezechias is ded ſeyk. He receauitk a token of helth of the lord in his natiuitye.</p>
+               </argument>
+               <head>ESAIAE XXXVIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ezechias iuſ qu' à la mort malade,</l>
+               <l>En l'horoſcope eut ſigne de ſanté:</l>
+               <l>Contre ſon cours le ſoleil retrograde</l>
+               <l>De dix degrez, ou il eſtoit monté.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:44"/>
+               <argument>
+                  <p>The viſions of Ezechiel of the fouur beſts, of the vuheyls, of the thron, and the image vuhich ſittyth vpon the thron.</p>
+               </argument>
+               <head>EZECH. I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ezecbiel voit en ſa viſion</l>
+               <l>Dieu en ſon throne, auec les quatre beſtes:</l>
+               <l>L'aigle, le Beuf, &amp; l'Homme, &amp; le Lion,</l>
+               <l>Roues auſsi de tourner touſiours prestes.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:44"/>
+               <argument>
+                  <p>The reſtoryng of the citye and the temple is sheuued vnto Ezechiel the prophet in vi<g ref="char:EOLhyphen"/>ſions.</p>
+               </argument>
+               <head>EZECH. XL.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Monstré luy eſt en contemplation</l>
+               <l>De ſon eſprit, qui le futur contemple</l>
+               <l>A l'aduenir, la restauration</l>
+               <l>De la Cité, &amp; du ſouuerain Temple.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:45"/>
+               <argument>
+                  <p>Ezechiel doth ſe the glory of God putre in to the temple vuhiche it had forſaken: the meſures of the altar ar deſcribed.</p>
+               </argument>
+               <head>EZECH. XLIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Puis voit apres du grand Dieu immortel</l>
+               <l>La haulte gloire ence ſainct temple entrer:</l>
+               <l>Et la longueur, &amp; largeur de l'autel,</l>
+               <l>Vient par meſure à deſcrire, &amp; monstrer.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:45"/>
+               <argument>
+                  <p>Ezechiel ſeyth vuaters rinnyng ouut of the temple, the coſts and diuiſions of the laude of promiſſion, by the lord ar sheuued vnto the prophet.</p>
+               </argument>
+               <head>EZECH. XLVII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ezechiel voit du temple eaux coulantes,</l>
+               <l>Et les confins de la promiſsion,</l>
+               <l>Des douze auſsi lignées excellentes,</l>
+               <l>Monstré e à luy eſt la diuiſion.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:46"/>
+               <argument>
+                  <p>Sidrah, Miſach, and Abdenago ar caſten in to a fornce of fyre, by cauſe the vuold not vuorshyppe the gelden image contrary vn<g ref="char:EOLunhyphen"/>to the kyngs decrit.</p>
+               </argument>
+               <head>DANIELIS IIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Au four ardant (car le Roy l'inſtitue)</l>
+               <l>Sidrach, Miſach, Abdenago ſont mis,</l>
+               <l>Pource qu'ilz n'ont adoré ſa ſtatue,</l>
+               <l>Mais Dieu en fin deliure ſes amis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:46"/>
+               <argument>
+                  <p>A viſion of fouur beſts is sheuued vnto Da<g ref="char:EOLhyphen"/>niel. Tis viſion is interpreted of four kyng<g ref="char:EOLhyphen"/>doms of the vuorld.</p>
+               </argument>
+               <head>DANIELIS VII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Daniel voit les quatre ventz combatre,</l>
+               <l>De leurs eſpritz mauuais ſpirans les pires,</l>
+               <l>Bestes auſsi iuſqu'aunombre de quatre,</l>
+               <l>Signifians du monde quatre empires.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:47"/>
+               <argument>
+                  <p>Daniel ſeyth the fygthyng letuuen a ram and a gotbuke. The ynderſtamdinh of the viſion is declared vnto Daniel bi the angel.</p>
+               </argument>
+               <head>DANIELIS VIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Il voit apres vne bataille forte,</l>
+               <l>Entre vn mouton, &amp; vn bouc tout cornu.</l>
+               <l>L'ange parlant luy expoſe, &amp; raporte</l>
+               <l>Ce que ſera ſar la fin aduenu.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:47"/>
+               <argument>
+                  <p>The prophecy of Daniel of the kyngs of the Perſians, of the kyngdom of Grece, of Egy<g ref="char:EOLunhyphen"/>pte, and the treuues of it, and the battele vu<g ref="char:EOLhyphen"/>yth the kyngdom of Syria is prophecyed.</p>
+               </argument>
+               <head>DANIELIS XI.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Puis il predit des faictz des Roys de Perſe,</l>
+               <l>De Grece, Egypte, &amp; des Roys de Syrie:</l>
+               <l>Prophetiſant mainte guerre diuerſe,</l>
+               <l>Pour agrandir chaſcune ſeigneurie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:48"/>
+               <argument>
+                  <p>The accuſers of Suſanna conuict of Daniel, ar put to exicution.</p>
+               </argument>
+               <head>DANIELIS XIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Suſanne fut accuſée à grand tort</l>
+               <l>Par deux vieillardz, mais par raiſon decente</l>
+               <l>Daniel ieune enfant, iuge à la mort</l>
+               <l>Les accuſeurs, l'accuſée innocente.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:48"/>
+               <argument>
+                  <p>Daniel for the diſtroyng of Bel and the Dra<g ref="char:EOLunhyphen"/>gon is caſten in to the den of lions. Abacuc doth bring meat.</p>
+               </argument>
+               <head>DANIELIS XIIII.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Le grand dragon, auec l'idole Bel</l>
+               <l>Furent destruictz. Et pour ce faict fut mis</l>
+               <l>Dedans le lac aux lions Daniel:</l>
+               <l>Pour le nourrir Habacuc eſt tranſmis.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:49"/>
+               <argument>
+                  <p>Oſee takyng a houue to vuyfe, doth ſyn<g ref="char:EOLhyphen"/>gnyfi the Idolatrie of the peple.</p>
+               </argument>
+               <head>OSEAE I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Oſée prend, &amp; eſpouſe vne femme</l>
+               <l>Fornicatrice, &amp; trois enfans eut d'elle:</l>
+               <l>Signifiant l'idolatrie infame</l>
+               <l>Du peuple Iuif, peu vers ſon Dieu fidelle.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:49"/>
+               <argument>
+                  <p>Iohel prophicieth the diſtruction of Ieruſa<g ref="char:EOLhyphen"/>lem. He exortyth the preyſts vnto praer and faſtyng for the calamitye vuhyche vuas at hand.</p>
+               </argument>
+               <head>IOELIS I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Ioel predit de la destruction</l>
+               <l>Ieruſalem, &amp; au prebstres ſupplie,</l>
+               <l>Vacquer à iune, &amp; à deuotion,</l>
+               <l>Et oraiſon d'humilté remplie.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:50"/>
+               <argument>
+                  <p>Amos doth prophycit aganſt Damaſc, the Philiſtians, Tyrus, Idumia, and teh ſons of Ammon.</p>
+               </argument>
+               <head>AMOS I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Contre Damas, Philisthins, Idumée,</l>
+               <l>Et contre Tyr, auec les filz Ammon,</l>
+               <l>Sa prophetie Amos ſi l'a ſemée</l>
+               <l>En brief parler, &amp; ſoubz obſcur ſermon.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:50"/>
+               <argument>
+                  <p>Ionas is ſent in to the rity of Niniuem for to preche, he his pumished by cauſe his pro<g ref="char:EOLhyphen"/>phycy vuas not fulfilled aganſt Niniuem.</p>
+               </argument>
+               <head>IONAE I. II. III.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Affligé fut par tempeſte ſoudaine</l>
+               <l>Ionas tranſmis en Niniue precher,</l>
+               <l>Trois iours au ventre il fut d'une Balaine,</l>
+               <l>Puis vers Niniue il ſe print à marcher.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:51"/>
+               <argument>
+                  <p>Habacuc carying potage and brede vnto the repers in the perſon of holi men doth god<g ref="char:EOLhyphen"/>ly complane, that miſdoers doth perſecute the rightus.</p>
+               </argument>
+               <head>HABACVC I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Portant des pains Habacuc le prophete</l>
+               <l>Aux moiſſonneurs &amp; laboureurs des champs,</l>
+               <l>Se plaint à Dieu de ce qu'iniure eſt faicte</l>
+               <l>Aux gens de bien, par les felons meſchantz.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:51"/>
+               <argument>
+                  <p>Zachary doth monishe the peple that the shuld conuert them ſelf vnto God, and eſ<g ref="char:EOLhyphen"/>keuu the luel doyngs of ther for fathers.</p>
+               </argument>
+               <head>ZACHARIAE I.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Zacharias tout le peuple admoneſte</l>
+               <l>Se conuertir au Seigneur Dieu puiſſant,</l>
+               <l>Et euiter le peché deshonneſte</l>
+               <l>De ſes parentz, ou eſt chaſcun gliſſant.</l>
+            </div>
+            <div type="emblem">
+               <pb facs="tcp:133097:52"/>
+               <argument>
+                  <p>Vuhen Antiochus did prepare his ſeco<g ref="char:cmbAbbrStroke">̄</g>d pro<g ref="char:EOLunhyphen"/>fection in to Egypt vuonder ful toke<g ref="char:cmbAbbrStroke">̄</g>s vuas ſeyn in the aer at Ieruſalem.</p>
+               </argument>
+               <head>II. MACHAB. V.</head>
+               <p>
+                  <figure/>
+               </p>
+               <l>Antiochus faiſant aux Iuifz la guerre,</l>
+               <l>On veit au ciel deſſus Ieruſalem</l>
+               <l>Hommes armez, tout ainſi qu'en la terre,</l>
+               <l>Lors prinſe fut pour les Iuifz en mal an.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:133097:52"/>
+            <head>L'autheur.</head>
+            <lg>
+               <l>QVand vous aurez contemplé ces Images</l>
+               <l>Du Dieu viuant, ayes en ſouuenir</l>
+               <l>La grand puiſſance, &amp; merueilleux ouurages,</l>
+               <l>Et ſa bonté qui nous peut ſubuenir.</l>
+            </lg>
+            <lg>
+               <l>Ce vous ſera profit à l'aduenir</l>
+               <l>D'eſtudier telle philoſophie:</l>
+               <l>Vueillez le ſens de l'Egliſe tenir,</l>
+               <l>La lettre occit, &amp; l'eſprit viuifie.</l>
+            </lg>
+            <trailer>Plus que moins.</trailer>
+         </div>
+         <div type="illustrations_of_the_four_Evangelists">
+            <pb facs="tcp:133097:53"/>
+            <p>
+               <figure>
+                  <p>Matthaeus Euangeliſta.</p>
+               </figure>
+               <figure>
+                  <p>Marcus Euangeliſta.</p>
+               </figure>
+               <figure>
+                  <p>Lucas Euangeliſta</p>
+               </figure>
+               <figure>
+                  <p>Ioannes Euangeliſta.</p>
+               </figure>
+            </p>
+            <p>
+               <pb facs="tcp:133097:53"/>
+               <figure>
+                  <figDesc>Frellon's printer's device</figDesc>
+                  <head>MATVRA.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:133097:54"/>
+            <pb facs="tcp:133097:54"/>
+         </div>
+      </back>
+   </text>
+</TEI>
